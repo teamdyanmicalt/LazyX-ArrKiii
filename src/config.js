@@ -2,9 +2,9 @@
 
 module.exports = {
   token:
-    "your_token",
-  clientId: "client_id",
-  prefix: ">",
+    "MTQxOTQ5MzY3MzQ3NjgxNjkyNg.GYzPrf.Q6MQ6zetNvd2drhRH0Q5EOcER3ndpL9IqWsacs",
+  clientId: "1419493673476816926",
+  prefix: "/",
   ownerID: "owner_id",
   SpotifyID: "85aab1d51a174aad9eed6d7989f530e6",
   SpotifySecret: "b2ad05aa725e434c88776a1be8eab6c2",
